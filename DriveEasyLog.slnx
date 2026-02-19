@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DriveEasyLog.Api/DriveEasyLog.Api.csproj" />
+  <Project Path="DriveEasyLog.Application/DriveEasyLog.Application.csproj" />
+  <Project Path="DriveEasyLog.Domain/DriveEasyLog.Domain.csproj" />
+  <Project Path="DriveEasyLog.Persistence/DriveEasyLog.Persistence.csproj" />
+</Solution>

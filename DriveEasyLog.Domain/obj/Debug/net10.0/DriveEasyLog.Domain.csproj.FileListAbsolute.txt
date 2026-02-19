@@ -1,0 +1,12 @@
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Domain\bin\Debug\net10.0\DriveEasyLog.Domain.deps.json
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Domain\bin\Debug\net10.0\DriveEasyLog.Domain.dll
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Domain\bin\Debug\net10.0\DriveEasyLog.Domain.pdb
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Domain\obj\Debug\net10.0\DriveEasyLog.Domain.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Domain\obj\Debug\net10.0\DriveEasyLog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Domain\obj\Debug\net10.0\DriveEasyLog.Domain.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Domain\obj\Debug\net10.0\DriveEasyLog.Domain.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Domain\obj\Debug\net10.0\DriveEasyLog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Domain\obj\Debug\net10.0\DriveEasyLog.Domain.dll
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Domain\obj\Debug\net10.0\refint\DriveEasyLog.Domain.dll
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Domain\obj\Debug\net10.0\DriveEasyLog.Domain.pdb
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Domain\obj\Debug\net10.0\ref\DriveEasyLog.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Persistence\bin\Debug\net10.0\DriveEasyLog.Persistence.deps.json
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Persistence\bin\Debug\net10.0\DriveEasyLog.Persistence.runtimeconfig.json
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Persistence\bin\Debug\net10.0\DriveEasyLog.Persistence.dll
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Persistence\bin\Debug\net10.0\DriveEasyLog.Persistence.pdb
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Persistence\bin\Debug\net10.0\DriveEasyLog.Domain.dll
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Persistence\bin\Debug\net10.0\DriveEasyLog.Domain.pdb
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Persistence\obj\Debug\net10.0\DriveEasyLog.Persistence.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Persistence\obj\Debug\net10.0\DriveEasyLog.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Persistence\obj\Debug\net10.0\DriveEasyLog.Persistence.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Persistence\obj\Debug\net10.0\DriveEasyLog.Persistence.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Persistence\obj\Debug\net10.0\DriveEasyLog.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Persistence\obj\Debug\net10.0\DriveEas.FC2482A7.Up2Date
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Persistence\obj\Debug\net10.0\DriveEasyLog.Persistence.dll
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Persistence\obj\Debug\net10.0\refint\DriveEasyLog.Persistence.dll
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Persistence\obj\Debug\net10.0\DriveEasyLog.Persistence.pdb
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Persistence\obj\Debug\net10.0\DriveEasyLog.Persistence.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Persistence\obj\Debug\net10.0\ref\DriveEasyLog.Persistence.dll
