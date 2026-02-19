@@ -1386,11 +1386,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pichau\\Desktop\\VANGO\\DriveEasyLog.Domain\\DriveEasyLog.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Pichau\\Desktop\\VANGO\\DriveEasyLog\\DriveEasyLog.Domain\\DriveEasyLog.Domain.csproj",
       "projectName": "DriveEasyLog.Domain",
-      "projectPath": "C:\\Users\\Pichau\\Desktop\\VANGO\\DriveEasyLog.Domain\\DriveEasyLog.Domain.csproj",
+      "projectPath": "C:\\Users\\Pichau\\Desktop\\VANGO\\DriveEasyLog\\DriveEasyLog.Domain\\DriveEasyLog.Domain.csproj",
       "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pichau\\Desktop\\VANGO\\DriveEasyLog.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Pichau\\Desktop\\VANGO\\DriveEasyLog\\DriveEasyLog.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

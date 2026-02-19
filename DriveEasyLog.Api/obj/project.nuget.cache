@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZrZe5OKpNXA=",
+  "dgSpecHash": "CNhXgJK/hY0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pichau\\Desktop\\VANGO\\DriveEasyLog.Api\\DriveEasyLog.Api.csproj",
+  "projectFilePath": "C:\\Users\\Pichau\\Desktop\\VANGO\\DriveEasyLog\\DriveEasyLog.Api\\DriveEasyLog.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pichau\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\10.0.3\\microsoft.aspnetcore.authentication.jwtbearer.10.0.3.nupkg.sha512",

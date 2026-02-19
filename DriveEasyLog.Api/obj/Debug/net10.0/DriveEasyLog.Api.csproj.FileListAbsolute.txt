@@ -164,3 +164,15 @@ C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Api\obj\Debug\net10.0\refint\DriveEas
 C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Api\obj\Debug\net10.0\DriveEasyLog.Api.pdb
 C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Api\obj\Debug\net10.0\DriveEasyLog.Api.genruntimeconfig.cache
 C:\Users\Pichau\Desktop\VANGO\DriveEasyLog.Api\obj\Debug\net10.0\ref\DriveEasyLog.Api.dll
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog\DriveEasyLog.Api\obj\Debug\net10.0\DriveEasyLog.Api.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog\DriveEasyLog.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog\DriveEasyLog.Api\obj\Debug\net10.0\DriveEasyLog.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog\DriveEasyLog.Api\obj\Debug\net10.0\DriveEasyLog.Api.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog\DriveEasyLog.Api\obj\Debug\net10.0\DriveEasyLog.Api.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog\DriveEasyLog.Api\obj\Debug\net10.0\DriveEasyLog.Api.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog\DriveEasyLog.Api\obj\Debug\net10.0\DriveEasyLog.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog\DriveEasyLog.Api\obj\Debug\net10.0\DriveEasyLog.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog\DriveEasyLog.Api\obj\Debug\net10.0\DriveEasyLog.Api.sourcelink.json
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog\DriveEasyLog.Api\obj\Debug\net10.0\DriveEasyLog.Api.dll
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog\DriveEasyLog.Api\obj\Debug\net10.0\refint\DriveEasyLog.Api.dll
+C:\Users\Pichau\Desktop\VANGO\DriveEasyLog\DriveEasyLog.Api\obj\Debug\net10.0\DriveEasyLog.Api.pdb
